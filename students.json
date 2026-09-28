@@ -1,0 +1,12 @@
+{
+    "1": {
+        "name": "Arun",
+        "age": "17",
+        "course": "Btech ",
+        "phone": "1234556789",
+        "marks": {
+            "Calculus": 87.0
+        },
+        "attendance": 97.0
+    }
+}
